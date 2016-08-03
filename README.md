@@ -14,9 +14,13 @@ We believe to Open Projects (software and "hardware"), we believe to contributor
 We believe in a "democratic" approach of the research, where anybody gives his small knowledge's contribute to obtain a big solution that also each "small" one can reuse.
 
 # Project-Jazz Basic Idea!
-We wish to provide a Plug&Play hardware modules integration ready to develop software applications for all the industries that match with the hardware.
+We wish to provide a Plug&Play hardware modules integration ready to develop software applications for all the industries that match with this hardware.
 
 We wish to provide also the basic open software application ready to use with this hardware integration.
 
-We don't provide any housing because we believe that each enthusiast, professional, company, inventor or maker should make it by himself. The aim is that anyone that has a good idea within the field of this project could have a startup platform ready for turn-key solution.
+We don't provide any housing because we believe that each enthusiast, professional, company, inventor or maker should make it by himself.
+
+The aim is that anyone that has a good idea within the field of this project could have a startup platform ready for turn-key solution. The maker assembles the modules that he needs into his housing and everything works directly without any further effort. He can extend the Software because it's open to build a customized solution.
+
+Exactly like jazz: the same modules produce different solutions.
 
